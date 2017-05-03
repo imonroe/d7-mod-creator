@@ -9,6 +9,7 @@ Prerequisites: PHP-CLI (version 5.2 or higher, PHP7.x friendly), and sufficient 
 To install: download the repo to any convenient location on your machine.
 
 Usage:  In a terminal window, navigate to the location you put the scripts.  Issue the command
+
 ```php module_creator.php```
 	
 Follow the prompts.  Your boilerplate module will be generated, and written where you ask.  Jump in and start coding your new module!
