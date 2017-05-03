@@ -9,12 +9,13 @@ Prerequisites: PHP-CLI (version 5.2 or higher, PHP7.x friendly), and sufficient 
 To install: download the repo to any convenient location on your machine.
 
 Usage:  In a terminal window, navigate to the location you put the scripts.  Issue the command
-	php module_creator.php
+'''php module_creator.php'''
 	
 Follow the prompts.  Your boilerplate module will be generated, and written where you ask.  Jump in and start coding your new module!
 
 If you need to generate a form, and really, you're going to need to generate a form at some point or another, then just use the form builder:
-	php form_builder.php
+
+'''php form_builder.php'''
 	
 Follow the prompts.  Your Drupal 7 Form API-compatible form will be generated and written to the file you specify.  Why not drop that bad boy into your new module?
 
